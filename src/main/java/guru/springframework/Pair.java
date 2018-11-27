@@ -2,7 +2,7 @@ package guru.springframework;
 
 import java.util.Objects;
 
-public class Pair {
+class Pair {
     private final String from;
     private final String to;
 
